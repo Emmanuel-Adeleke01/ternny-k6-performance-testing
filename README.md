@@ -339,7 +339,8 @@ Because the configured SLA is based on P95, the isolated maximum did not cause t
 
 ## Project Structure
 
-```Ternny K6 Assessment/
+```text
+Ternny K6 Assessment/
 │
 ├── scripts/
 │   ├── task-1-smoke.js
